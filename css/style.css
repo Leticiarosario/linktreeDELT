@@ -29,8 +29,8 @@ a{
 }
 
 img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     padding: 5px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -92,7 +92,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1rem 0;
+   
 }
 footer p>a:hover{
     text-decoration: none;
