@@ -55,10 +55,10 @@ h1{
     padding: 1.2rem 0;
 }
 
-ul{
+div{
     margin: 1rem 0;
 }
-ul li{
+.social a{
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -77,7 +77,7 @@ ul li{
     -o-border-radius: 5px;
 }
 
-ul li:hover{
+.social a:hover{
     background-color: var(--darkorange);
     transition: .5s;
     -webkit-transition: .5s;
